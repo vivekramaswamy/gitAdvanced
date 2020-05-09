@@ -1,1 +1,1 @@
-info about receipe
+info about receipe in MD file format
